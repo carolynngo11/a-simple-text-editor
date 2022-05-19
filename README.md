@@ -12,10 +12,11 @@ The objective of this project is to...
 - [Questions](#questions)
       
 ## Installation
-Used...
+Used express, bundle, and Heroku.
 
 ## Usage
 (photo/video)
+Heroku: https://a-simple-text-editor.herokuapp.com/
 
 ## Questions
 Have any Questions? Contact me: [carolynngo11@yahoo.com](mailto:carolynngo11@yahoo.com)
