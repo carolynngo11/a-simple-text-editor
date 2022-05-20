@@ -12,7 +12,7 @@ The objective of this project is to...
 - [Questions](#questions)
       
 ## Installation
-Used express, bundle, and Heroku.
+Used express, build, and Heroku.
 
 ## Usage
 (photo/video)
